@@ -98,6 +98,8 @@
   <h2>📬 Contact</h2>
   <p>
     <a href="mailto:etharfouad08@gmail.com">etharfouad08@gmail.com</a> ·
+   <a href="https://drive.google.com/file/d/11NY0Lde9OCZDZew64bP4Bv6x4ptJxr0f/view?usp=sharing" target="_blank">CV</a> ·
+
     <a href="https://www.linkedin.com/in/ethar-fouad-4000a9234" target="_blank">LinkedIn</a> ·
     <a href="https://github.com/Ethar-Mohamed" target="_blank">GitHub</a>
   </p>
